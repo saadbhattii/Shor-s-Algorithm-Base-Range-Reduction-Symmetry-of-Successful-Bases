@@ -8,7 +8,7 @@ The note proves a simple but overlooked structural property of Shor’s algorith
 [Read the PDF](https://github.com/saadbhattii/shor-base-range-reduction/blob/main/Shor's%20Algorithm%20Base%20Range%20Reduction%20-%20Symmetry%20of%20Successful%20Bases_Preprintt.pdf)
 [View the LaTeX source on Overleaf](https://www.overleaf.com/read/jbgjpjnddzbz#2dcd08)
 
-## Quantum Computing Stack Exchange Discussion
+## Quantum Computing Stack Exchange Discussion (Answered and Validated by Craig Gidney - Quantum Software Engineer at Google)
 https://quantumcomputing.stackexchange.com/questions/44640/a-symmetry-in-shor-s-algorithm-successful-bases-always-come-in-pairs-a-n-a
 
 ## License
