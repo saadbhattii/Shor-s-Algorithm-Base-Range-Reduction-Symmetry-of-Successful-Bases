@@ -5,7 +5,7 @@ This repository contains my preprint “Shor’s Algorithm Base Range Reduction:
 
 The note proves a simple but overlooked structural property of Shor’s algorithm: if a base a is successful, then its mirror N − a is always also successful with the same order. This symmetry implies that successful bases occur in pairs, and the effective search range for bases can be reduced to 1 < a < N/2 without any loss of probability.
 
-## Quantum Computing Stack Exchange Discussion (Answered by Craig Gidney - Quantum Software Engineer at Google AI Quantum)
+## Quantum Computing Stack Exchange Discussion
 https://quantumcomputing.stackexchange.com/questions/44640/a-symmetry-in-shor-s-algorithm-successful-bases-always-come-in-pairs-a-n-a
 
 ## License
